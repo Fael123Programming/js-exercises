@@ -35,7 +35,7 @@ if (variable) {
 var globalVar = 77;
 
 function scopeTest() {
-    var localVar = 88; // Either scoped.
+    var localVar = 88; // Also scoped.
 }
 
 // console.log(localVar);  // ReferenceError
