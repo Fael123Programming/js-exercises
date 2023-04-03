@@ -31,3 +31,15 @@ set_data.add(1);
 set_data.add(3);
 set_data.add(2);
 console.log(set_data);
+
+// Primitive data structures.
+// strings, objects.
+
+// Non-primitive data structures.
+
+// Linear data structures.
+// Static data structures: arrays;
+// Dynamic data structures: linked-lists, queues, stack, etc;
+
+// Non-linear data structures.
+// Trees, graphs, etc.
